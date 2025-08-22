@@ -20,6 +20,13 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/61b65581a791e0ca3fa95c610179d660f6d8f4be.svg "Repobeats analytics image")
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fox3000foxy/fox3000foxy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fox3000foxy/fox3000foxy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fox3000foxy/fox3000foxy/output/pacman-contribution-graph.svg">
+</picture>
+
+
 Croissant is a **modular ecosystem** that enables:
 
 * 🎮 **Gamers** — manage, trade, and give a second life to digital items.

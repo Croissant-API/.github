@@ -18,6 +18,8 @@
 
 ## 🌐 Overview
 
+![Alt](https://repobeats.axiom.co/api/embed/61b65581a791e0ca3fa95c610179d660f6d8f4be.svg "Repobeats analytics image")
+
 Croissant is a **modular ecosystem** that enables:
 
 * 🎮 **Gamers** — manage, trade, and give a second life to digital items.

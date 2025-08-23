@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <img src="https://croissant-api.fr/assets/icons/apple-icon-180x180.png" alt="Croissant Logo" width="180"/>  
-  ![Visitors](https://counter.seku.su/cmoe?name=croissant&theme=r34)
+  <img src="https://croissant-api.fr/assets/icons/apple-icon-180x180.png" alt="Croissant Logo" width="180"/>  <br>
+  <img src="https://counter.seku.su/cmoe?name=croissant&theme=r34" alt="Visitors"/>
 </p>  
 
 <p align="center">

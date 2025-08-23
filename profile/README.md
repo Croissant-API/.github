@@ -9,7 +9,6 @@
   <a href="https://croissant-api.fr" style="text-decoration: none; color: inherit;"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcroissant-api.fr&label=croissant-api.fr" alt="Website"/></a>
   <a href="https://discord.gg/croissant" style="text-decoration: none; color: inherit;"><img src="https://img.shields.io/discord/croissant?color=5865F2&label=Discord&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://github.com/Croissant-API/API/blob/main/LICENSE" style="text-decoration: none; color: inherit;"><img src="https://img.shields.io/github/license/Croissant-API/API" alt="License"/></a><br>
-  <img src="https://counter.seku.su/cmoe?name=croissant&theme=r34" alt="Visitors"/>
 </p>
 
 # 🍪 Croissant Ecosystem
@@ -24,6 +23,8 @@
 <picture>
   <img alt="pacman contribution graph" src="https://profile-readme-generator.com/assets/pacman.svg">
 </picture>
+
+  <img src="https://counter.seku.su/cmoe?name=croissant&theme=r34" alt="Visitors"/>
 
 
 Croissant is a **modular ecosystem** that enables:

@@ -1,6 +1,4 @@
-# 🍪 Croissant Ecosystem
 
-> *An open-source, commission-free platform for gamers, creators, and developers.*
 
 <p align="center">
   <img src="https://croissant-api.fr/assets/icons/apple-icon-180x180.png" alt="Croissant Logo" width="180"/>  
@@ -9,11 +7,14 @@
 <p align="center">
   <a href="https://github.com/Croissant-API" style="text-decoration: none; color: inherit;"><img src="https://img.shields.io/badge/GitHub-Croissant--API-181717?logo=github" alt="GitHub"/></a>
   <a href="https://croissant-api.fr" style="text-decoration: none; color: inherit;"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcroissant-api.fr&label=croissant-api.fr" alt="Website"/></a>
-  <a href="https://discord.gg/croissant" style="text-decoration: none; color: inherit;"><img src="https://img.shields.io/discord/000000000000?color=5865F2&label=Discord&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.gg/croissant" style="text-decoration: none; color: inherit;"><img src="https://img.shields.io/discord/croissant?color=5865F2&label=Discord&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://github.com/Croissant-API/API/blob/main/LICENSE" style="text-decoration: none; color: inherit;"><img src="https://img.shields.io/github/license/Croissant-API/API" alt="License"/></a>
 </p>
 
+# 🍪 Croissant Ecosystem
 
+> *An open-source, commission-free platform for gamers, creators, and developers.*
+> 
 ---
 
 ## 🌐 Overview

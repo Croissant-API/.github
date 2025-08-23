@@ -13,8 +13,10 @@
 
 # 🍪 Croissant Ecosystem
 
+![Visitors](https://counter.seku.su/cmoe?name=croissant&theme=r34)
+
 > *An open-source, commission-free platform for gamers, creators, and developers.*
-> 
+
 ---
 
 ## 🌐 Overview
